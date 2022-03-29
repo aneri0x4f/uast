@@ -1,5 +1,18 @@
 # UAST: Unicode Aware Sanskrit Transliteration
 
+If you use this repository, please cite the following paper:
+
+```bibtex
+@misc{uast2022,
+    title = {UAST: Unicode Aware Sanskrit Transliteration},
+    author = {Aneri Dalwadi and Dhruvil Dave},
+    year = {2022},
+    eprint = {2203.14277},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.HC}
+}
+```
+
 ![poster](/public/uast_poster.png)
 
 Devanagari (IAST: _devanāgarī_) is the writing system that is adapted by various languages
